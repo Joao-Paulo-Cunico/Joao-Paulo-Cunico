@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engenharia_de_Software-Centro_Universit%C3%A1rio_Campo_Real-0ea5e9?style=flat-square&labelColor=0d1117" alt="Engenharia de Software - Centro Universitário Campo Real" />
-  <img src="https://img.shields.io/badge/Buscando-Est%C3%A1gio_em_Desenvolvimento-22d3ee?style=flat-square&labelColor=0d1117" alt="Buscando estágio em desenvolvimento" />
+  <b>Engenharia de Software - Centro Universitário Campo Real, Buscando oportunidades na área</b>
 </p>
 
 ---
@@ -40,8 +39,6 @@ Aprendo escrevendo código, errando, documentando e melhorando. Busco uma oportu
 
 **Em estudo (contato inicial)**
 
-<img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=64748b" alt="C++" />
-<img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=64748b" alt="SQL" />
 <img src="https://img.shields.io/badge/PHP_/_Laravel-0d1117?style=flat-square&logo=laravel&logoColor=64748b" alt="PHP e Laravel" />
 
 ---
@@ -97,6 +94,4 @@ Próximos passos que já tenho mapeados nos meus projetos:
 ## Contato
 
 <a href="https://github.com/Joao-Paulo-Cunico"><img src="https://img.shields.io/badge/GitHub-Joao--Paulo--Cunico-0d1117?style=flat-square&logo=github&logoColor=38bdf8" alt="GitHub" /></a>
-<!-- Para adicionar o LinkedIn, descomente a linha abaixo e troque SEU-PERFIL:
-<a href="https://www.linkedin.com/in/SEU-PERFIL"><img src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o_Paulo-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
--->
+<a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-cunico-513135353/"><img src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o_Paulo-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
